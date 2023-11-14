@@ -1,3 +1,9 @@
+Responsive Website for Cusine with Multiple Themes, Made by React, SASS
+In this project, I used modern React and the latest React router, Dom version 6, and also used SASS and SCSS for convenience.
+@github-Rahulchandra195 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
